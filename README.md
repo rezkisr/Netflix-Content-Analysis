@@ -28,7 +28,7 @@ This project analyzes Netflix's content library to uncover trends in content typ
 - The **United States** is the largest content-producing country, followed by **India** and the **United Kingdom**.
 - While movies dominate in most countries, **South Korea** and **Japan** have relatively higher proportions of TV Shows.
 - **International Movies** and **Dramas** are the most common genres in Netflix's catalog.
-- Most Netflix titles are intended for **mature audiences**, indicating a strong focus on adult viewers.
+- Most Netflix titles are intended for **mature audiences** ratings, making adult-oriented content the dominant rating category.
 - Netflix's content library expanded rapidly between **2015 and 2019**, before the number of newly added titles gradually declined.
 
 ---
