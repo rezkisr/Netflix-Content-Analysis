@@ -95,25 +95,25 @@ Netflix-Content-Analysis/
 ## 📷 Dashboard Preview
 
 ### Total Titles
-![Total Titles](images/total_titles.png)
+![Total Titles](Images/total_titles.png)
 
 ### Movies vs TV Shows
-![Movies vs TV Shows](images/movies_vs_tvshows.png)
+![Movies vs TV Shows](Images/movies_vs_tvshows.png)
 
 ### Top Producing Countries
-![Top Countries](images/top10_countries.png)
+![Top Countries](Images/top10_countries.png)
 
 ### Movies vs TV Shows by Top Countries
-![Country Ratio](images/country_ratio.png)
+![Country Ratio](Images/country_ratio.png)
 
 ### Top Genres
-![Top Genres](images/top_genres.png)
+![Top Genres](Images/top_genres.png)
 
 ### Audience Ratings
-![Ratings](images/ratings.png)
+![Ratings](Images/ratings.png)
 
 ### Content Growth Over Time
-![Content Growth](images/content_growth.png)
+![Content Growth](Images/content_growth.png)
 
 ---
 
