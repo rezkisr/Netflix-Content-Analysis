@@ -58,15 +58,11 @@ This project analyzes Netflix's content library to uncover trends in content typ
 ```text
 Netflix-Content-Analysis/
 │
-├── data/
+├── Data/
 │   ├── netflix_titles.csv
 │   └── Netflix_cleaned.csv
 │
-├── notebooks/
-│   ├── 01_netflix_cleaning.ipynb
-│   └── 02_netflix_analysis.ipynb
-│
-├── images/
+├── Images/
 │   ├── total_titles.png
 │   ├── movies_vs_tvshows.png
 │   ├── top10_countries.png
@@ -74,6 +70,10 @@ Netflix-Content-Analysis/
 │   ├── top_genres.png
 │   ├── ratings.png
 │   └── content_growth.png
+│
+├── Notebooks/
+│   ├── 01_netflix_cleaning.ipynb
+│   └── 02_netflix_analysis.ipynb
 │
 ├── README.md
 └── report_netflix.html
