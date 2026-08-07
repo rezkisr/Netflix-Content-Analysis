@@ -46,10 +46,10 @@ This project analyzes Netflix's content library to uncover trends in content typ
 
 ## 📂 Project Files
 
-- `01_data_cleaning.ipynb` – Data cleaning and preprocessing.
+- `01_netflix_cleaning.ipynb` – Data cleaning and preprocessing.
 - `02_netflix_analysis.ipynb` – Exploratory data analysis and visualizations.
-- `netflix.csv` – Original dataset.
-- `netflix_cleaned.csv` – Cleaned dataset used for analysis.
+- `netflix_titles.csv` – Original dataset.
+- `Netflix_cleaned.csv` – Cleaned dataset used for analysis.
 
 ---
 
@@ -60,10 +60,10 @@ Netflix-Content-Analysis/
 │
 ├── data/
 │   ├── netflix_titles.csv
-│   └── netflix_cleaned.csv
+│   └── Netflix_cleaned.csv
 │
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb
+│   ├── 01_netflix_cleaning.ipynb
 │   └── 02_netflix_analysis.ipynb
 │
 ├── images/
